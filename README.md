@@ -4,6 +4,12 @@ This repository contains posters and oral presentations from conferences and sem
 
 ## Contents:
 
+### Ph.D. defense
+Slides from my Ph.D. defense of December 15th, 2023, Université Claude Bernard Lyon 1, Lyon, France
+Title: Stress, Health and Senescence in a long-lived mammal, the roe deer (*Capreolus capreolus*)
+Supervisors: Emmanuelle Gilot-Fromont and Pauline Vuarin
+Jury: Michaela Hau, Jean-François Le Galliard, François-Xavier Dechaume-Moncharmont, Emmanuelle Gilot-Fromont, Pauline Vuarin
+
 ### Oral presentations:
 - 2023 - International conference, EMPSEB 28, Glasgow, Scotland
 > Is stress impacting the way you get old?
