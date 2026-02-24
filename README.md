@@ -17,7 +17,7 @@ This repository contains posters and oral presentations from conferences and sem
 - 2023 - International conference, EMPSEB 28, Glasgow, Scotland
 > Is stress impacting the way you get old?
 - 2022 - Decryp'thèse, Lyon, France
-> Sex-specific body mass ageing in Asian elephants
+> The weight of getting old
 
 ### Posters:
 - 2022 - International conference, Ecology & Behaviour, Strasbourg, France
